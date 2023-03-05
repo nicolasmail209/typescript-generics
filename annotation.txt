@@ -1,0 +1,7 @@
+Install typescript.
+
+tsc examples.ts(transpiles it to examples.js)
+
+Create tsconfig.json
+
+tsc(creates out folder and copies examples.js inside it)
