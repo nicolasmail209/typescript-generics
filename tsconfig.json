@@ -3,5 +3,7 @@
         "target": "ES6",
         "module": "CommonJS",
         "outDir": "out",
-    }
+    },
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
 }
